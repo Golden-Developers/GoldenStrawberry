@@ -2,7 +2,8 @@
 I guess it's just a mod that adds Strawberries and Golden version of them (kinda 😏)
 
 # Download
-Mod is still in development.
+## GitHub releases
+### [v1.0.0 - for 1.20.1 - FORGE (*latest*)]()
 
 # Creators
 [@ForZzy-FZ](https://github.com/ForZzy-FZ) and
