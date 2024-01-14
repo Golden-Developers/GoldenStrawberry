@@ -1,4 +1,4 @@
-# GoldenStrawberry for forge
+# Golden Strawberry for FORGE
 Discover an exciting mod that brings a fun twist to your gaming adventures. With this mod, you get to explore a world filled with juicy strawberries and their shiny golden versions.
 
 But wait, there's a bit of mystery too! As you roam through the desert, you might stumble upon some unusual roses.
