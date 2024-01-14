@@ -1,3 +1,6 @@
+### *The source code is not published and will not be published soon.*
+*Why? Go down to FAQ and read it.*
+
 # Golden Strawberry for FORGE
 Discover an exciting mod that brings a fun twist to your gaming adventures. With this mod, you get to explore a world filled with juicy strawberries and their shiny golden versions.
 
