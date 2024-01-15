@@ -15,7 +15,7 @@ But wait, there's a bit of mystery too! As you roam through the desert, you migh
 
 # FAQ
 Q: Why is there no source code?<br />
-A: We dont want players to find ways to cheat (in public servers) and/or find out about the secrets earlier than they should.
+A: We dont want players to find ways to cheat (in public servers) and/or find out about the secrets earlier than they should. We are planning on publishing it in the future.
 
 
 
