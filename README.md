@@ -10,7 +10,7 @@ But wait, there's a bit of mystery too! As you roam through the desert, you migh
 ## GitHub releases
 ### [v1.0.0 - for 1.20.1 - FORGE (*latest*)](https://github.com/sobakinmontazer/GoldenStrawberry/releases/tag/v1.0.0-1.20.1-forge)
 ## CurseForge
-### [v1.0.0 - for 1.20.1 - FORGE (*latest*)](https://www.curseforge.com/minecraft/mc-mods/golden-strawberry)
+### [v1.0.0 - for 1.20.1 - FORGE (*latest*)](https://www.curseforge.com/minecraft/mc-mods/golden-strawberry/files/5032309)
 
 
 # FAQ
