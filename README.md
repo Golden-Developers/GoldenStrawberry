@@ -9,6 +9,9 @@ But wait, there's a bit of mystery too! As you roam through the desert, you migh
 # Download
 ## GitHub releases
 ### [v1.0.0 - for 1.20.1 - FORGE (*latest*)](https://github.com/sobakinmontazer/GoldenStrawberry/releases/tag/v1.0.0-1.20.1-forge)
+## CurseForge
+### [v1.0.0 - for 1.20.1 - FORGE (*latest*)](https://www.curseforge.com/minecraft/mc-mods/golden-strawberry)
+
 
 # FAQ
 Q: Why is there no source code?<br />
