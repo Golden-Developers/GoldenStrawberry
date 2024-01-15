@@ -7,6 +7,14 @@ Discover an exciting mod that brings a fun twist to your gaming adventures. With
 
 But wait, there's a bit of mystery too! As you roam through the desert, you might stumble upon some unusual roses.
 
+
+
+# Screenshots
+![img1](img1.png)
+![img2](img2.png)
+![img3](img3.png)
+###### There are some sneak peeks of the secrets in these screenshots.
+
 # Creators
 Main Developer - [@ForZzy-FZ](https://github.com/ForZzy-FZ)<br/>
 Developer - [@sobakinmontazer](https://github.com/sobakinmontazer)
