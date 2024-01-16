@@ -22,7 +22,6 @@ Developer - [@sobakinmontazer](https://github.com/sobakinmontazer)
 # Links
 - ### [Modrinth](https://modrinth.com/mod/golden-strawberry)
 - ### [CurseForge](https://www.curseforge.com/minecraft/mc-mods/golden-strawberry)
-- [Donate to Sobakin](https://www.donationalerts.com/r/sobakinmontazer)
-- [Donate to Forzzy](https://www.donationalerts.com/r/forzzy_off)
+- [Support creators](https://github.com/sobakinmontazer/GoldenStrawberry/wiki/Donations)
 - [Forge (required for mod to run)](https://files.minecraftforge.net/net/minecraftforge/forge/)
 - [Other links (linktree)](https://linktr.ee/golden_strawberry)
