@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "goldenstrawberry:space_nugget"
+    },
+    "b": {
+      "item": "goldenstrawberry:space_ingot"
+    },
+    "c": {
+      "item": "goldenstrawberry:strawberry"
+    }
+  },
+  "result": {
+    "item": "goldenstrawberry:space_block",
+    "count": 1
+  }
+}

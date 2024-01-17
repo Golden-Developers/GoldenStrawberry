@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "goldenstrawberry:block/space_portal_ew"
+    },
+    "axis=x": {
+      "model": "goldenstrawberry:block/space_portal_ns"
+    }
+  }
+}

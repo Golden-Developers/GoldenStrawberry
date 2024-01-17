@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpaceProtector"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpaceIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpaceIngot"
+      },
+      {
+        "value": "CUSTOM:SpaceBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpaceBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SpaceArmor.boots"
+    },
+    "name": "space_boots_craft",
+    "namespace": "mod"
+  }
+}

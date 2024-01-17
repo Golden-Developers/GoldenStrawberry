@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "desert",
+    "flower_forest",
+    "beach",
+    "cherry_grove"
+  ],
+  "features": "goldenstrawberry:space_rose",
+  "step": "vegetal_decoration"
+}

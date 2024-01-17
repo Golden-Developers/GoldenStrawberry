@@ -1,0 +1,38 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "diamond_pickaxe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Space Pickaxe",
+    "specialInformation": {
+      "fixedValue": [
+        "WHAT IS GOING ON? HOW?"
+      ]
+    },
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "harvestLevel": 10,
+    "efficiency": 30.0,
+    "attackSpeed": 1.0,
+    "enchantability": 69,
+    "damageVsEntity": 8.0,
+    "usageCount": 100000,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "SpacePickaxeRightclickedOnBlock"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "b ",
+    " c"
+  ],
+  "key": {
+    "a": {
+      "item": "goldenstrawberry:space_nugget"
+    },
+    "b": {
+      "item": "goldenstrawberry:space_fluid_bucket"
+    },
+    "c": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "goldenstrawberry:space",
+    "count": 1
+  }
+}

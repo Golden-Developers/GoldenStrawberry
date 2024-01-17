@@ -1,0 +1,41 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "diamond_sword_1",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Outer Space Sword",
+    "specialInformation": {
+      "fixedValue": [
+        "I DON'T HAVE ANY WORDS AGAIN!"
+      ]
+    },
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 30.0,
+    "enchantability": 96,
+    "damageVsEntity": 300.0,
+    "usageCount": 115000,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "OuterSpaceSwordRightclickedOnBlock"
+    },
+    "onEntityHitWith": {
+      "name": "SpaceSwordRightclicked"
+    }
+  }
+}

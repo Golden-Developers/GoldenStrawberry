@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "c c"
+  ],
+  "key": {
+    "a": {
+      "item": "goldenstrawberry:space_block"
+    },
+    "b": {
+      "item": "goldenstrawberry:space_protector"
+    },
+    "c": {
+      "item": "goldenstrawberry:space_ingot"
+    }
+  },
+  "result": {
+    "item": "goldenstrawberry:space_armor_helmet",
+    "count": 1
+  }
+}

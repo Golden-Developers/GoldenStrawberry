@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:yellow_dye"
+    },
+    "b": {
+      "item": "minecraft:water_bucket"
+    },
+    "c": {
+      "item": "minecraft:lava_bucket"
+    },
+    "d": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "e": {
+      "item": "minecraft:lightning_rod"
+    }
+  },
+  "result": {
+    "item": "goldenstrawberry:lightning_bolt",
+    "count": 1
+  }
+}
