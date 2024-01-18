@@ -33,6 +33,7 @@ import net.mcreator.goldenstrawberry.init.GoldenstrawberryModTabs;
 import net.mcreator.goldenstrawberry.init.GoldenstrawberryModItems;
 import net.mcreator.goldenstrawberry.init.GoldenstrawberryModFluids;
 import net.mcreator.goldenstrawberry.init.GoldenstrawberryModFluidTypes;
+import net.mcreator.goldenstrawberry.init.GoldenstrawberryModEntities;
 import net.mcreator.goldenstrawberry.init.GoldenstrawberryModBlocks;
 
 import java.util.function.Supplier;
@@ -56,6 +57,7 @@ public class GoldenstrawberryMod {
 		GoldenstrawberryModBlocks.REGISTRY.register(bus);
 
 		GoldenstrawberryModItems.REGISTRY.register(bus);
+		GoldenstrawberryModEntities.REGISTRY.register(bus);
 
 		GoldenstrawberryModTabs.REGISTRY.register(bus);
 

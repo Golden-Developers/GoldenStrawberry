@@ -20,5 +20,8 @@ public class GoldenstrawberryModTabs {
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.goldenstrawberry.golden_strawberry_mods")).icon(() -> new ItemStack(GoldenstrawberryModItems.STRAWBERRY.get())).displayItems((parameters, tabData) -> {
 				tabData.accept(GoldenstrawberryModItems.STRAWBERRY.get());
 				tabData.accept(GoldenstrawberryModItems.GOLDEN_STRAWBERRY.get());
+				tabData.accept(GoldenstrawberryModItems.KNIFE.get());
+				tabData.accept(GoldenstrawberryModItems.STRAWBERRIES_WITHOUT_STALK.get());
+				tabData.accept(GoldenstrawberryModItems.GOLDEN_STRAWBERRY_WITHOUT_STALK.get());
 			}).withSearchBar().build());
 }

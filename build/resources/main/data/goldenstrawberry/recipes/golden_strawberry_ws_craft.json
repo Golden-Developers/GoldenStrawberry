@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "goldenstrawberry:knife"
+    },
+    "b": {
+      "item": "goldenstrawberry:golden_strawberry"
+    }
+  },
+  "result": {
+    "item": "goldenstrawberry:golden_strawberry_without_stalk",
+    "count": 1
+  }
+}
