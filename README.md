@@ -16,7 +16,10 @@ But wait, there's a bit of mystery too! As you roam through the desert, you migh
 ###### There are some sneak peeks of the secrets in these screenshots.
 
 # Creators
-Main Developer - [@ForZzy-FZ](https://github.com/ForZzy-FZ)<br/>
+> [!IMPORTANT]
+> The mod creator and owner is [@ForZzy-FZ](https://github.com/ForZzy-FZ)! [@sobakinmontazer](https://github.com/sobakinmontazer) is not the owner, just a second developer.
+
+Creator, Developer - [@ForZzy-FZ](https://github.com/ForZzy-FZ)<br/>
 Developer - [@sobakinmontazer](https://github.com/sobakinmontazer)
 
 # Links
