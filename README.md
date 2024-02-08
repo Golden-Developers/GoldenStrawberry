@@ -16,12 +16,10 @@ But wait, there's a bit of mystery too! As you roam through the desert, you migh
 ###### There are some sneak peeks of the secrets in these screenshots.
 
 # Creators
-Main Developer - [@ForZzy-FZ](https://github.com/ForZzy-FZ)<br/>
+Creator, Developer - [@ForZzy-FZ](https://github.com/ForZzy-FZ)<br/>
 Developer - [@sobakinmontazer](https://github.com/sobakinmontazer)
 
 # Links
-- ### [Modrinth](https://modrinth.com/mod/golden-strawberry)
-- ### [CurseForge](https://www.curseforge.com/minecraft/mc-mods/golden-strawberry)
 - [Support creators](https://github.com/sobakinmontazer/GoldenStrawberry/wiki/Donations)
 - [Forge (required for mod to run)](https://files.minecraftforge.net/net/minecraftforge/forge/)
 - [Other links (linktree)](https://linktr.ee/golden_strawberry)
