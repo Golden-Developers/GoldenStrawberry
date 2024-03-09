@@ -25,4 +25,4 @@ Developer - [@sobakinmontazer](https://github.com/sobakinmontazer)
 # Links
 - [Support creators](https://github.com/sobakinmontazer/GoldenStrawberry/wiki/Donations)
 - [Forge (required for mod to run)](https://files.minecraftforge.net/net/minecraftforge/forge/)
-- [Other links (linktree)](https://linktr.ee/golden_strawberry)
+- [Other links (Linktree)](https://linktr.ee/golden_strawberry)
