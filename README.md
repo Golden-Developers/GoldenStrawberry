@@ -15,17 +15,11 @@ But wait, there's a bit of mystery too! As you roam through the desert, you migh
 
 # Screenshots
 ![img1](screenshots/img1.png)
-###### Default and Golden strawberry.
 ![img2](screenshots/img2.png)
-###### Golden strawberry craft.
 ![img3](screenshots/img3.png)
-###### Strawberry Fields and Dark Strawberry fields biomes.
 ![img4](screenshots/img4.png)
-###### Strawberry guardian in the Dark Strawberry plains.
 ![img5](screenshots/img5.png)
-###### Strawberry bushes in Strawberry Plains biome.
 ![img6](screenshots/img6.png)
-###### Golden Strawberry bushes in the Strawberry Plains biome.
 
 # Creators
 Creator, Developer - [@ForZzy-FZ](https://github.com/ForZzy-FZ)<br/>
