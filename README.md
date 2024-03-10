@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 > This mod is not all about strawberries, it also contains a lot of different secrets, so
-if you want to get **only** strawberries, you can use [this texture pack](https://www.curseforge.com/minecraft/texture-packs/strawberry-bushes) (changes the texture of already existing sweet berries to strawberries)
+if you want to get **only** strawberries, you can use [this texture pack](https://www.curseforge.com/minecraft/texture-packs/strawberry-bushes) (swaps sweet berries for strawberries)
 
 # Golden Strawberry for FORGE
 ### Download from [Modrinth](https://modrinth.com/mod/golden-strawberry)
@@ -26,3 +26,6 @@ Developer - [@sobakinmontazer](https://github.com/sobakinmontazer)
 - [Support creators](https://github.com/sobakinmontazer/GoldenStrawberry/wiki/Donations)
 - [Forge (required for mod to run)](https://files.minecraftforge.net/net/minecraftforge/forge/)
 - [Other links (Linktree)](https://linktr.ee/golden_strawberry)
+
+# Credits
+Thanks to [ByBoxi](https://www.curseforge.com/members/byboxi/projects) for the textures of the default strawberries.
