@@ -27,6 +27,7 @@ Publisher - [@sobakinmontazer](https://github.com/sobakinmontazer)
 
 # Links
 - [Support creators](https://github.com/sobakinmontazer/GoldenStrawberry/wiki/Donations)
+- [Discord Community](https://discord.gg/YNsut5NJJp)
 - [Forge (required for the mod to work)](https://files.minecraftforge.net/net/minecraftforge/forge/)
 - [Other links (Linktree)](https://linktr.ee/golden_strawberry)
 
