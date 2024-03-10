@@ -20,7 +20,7 @@ But wait, there's a bit of mystery too! As you roam through the desert, you migh
 
 # Creators
 Creator, Developer - [@ForZzy-FZ](https://github.com/ForZzy-FZ)<br/>
-Publisher, Developer - [@sobakinmontazer](https://github.com/sobakinmontazer)
+Publisher - [@sobakinmontazer](https://github.com/sobakinmontazer)
 
 # Links
 - [Support creators](https://github.com/sobakinmontazer/GoldenStrawberry/wiki/Donations)
