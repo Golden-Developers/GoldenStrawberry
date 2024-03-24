@@ -7,7 +7,7 @@ if you want to get **only** strawberries, you can use [this texture pack](https:
 ### Download from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/golden-strawberry)
 ### Download from [GitHub releases](https://github.com/sobakinmontazer/GoldenStrawberry/releases)
 # About
-Discover an exciting mod that brings a fun twist to your gaming adventures. With this mod, you get to explore a world filled with juicy strawberries and their shiny golden versions.
+You get to explore a world filled with juicy strawberries and their shiny golden versions.
 
 But wait, there's a bit of mystery too! As you roam through the desert, you might stumble upon some unusual roses.
 
