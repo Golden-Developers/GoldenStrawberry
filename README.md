@@ -1,3 +1,6 @@
+> [!NOTE]
+> The mod is discontiniued, because we're out of ideas 😔 (we will provide bug fixes)
+
 > [!IMPORTANT]
 > This mod is not all about strawberries, it also contains a lot of different secrets, so
 if you want to get **only** strawberries, you can use [this texture pack](https://www.curseforge.com/minecraft/texture-packs/strawberry-bushes) (swaps sweet berries for strawberries)
